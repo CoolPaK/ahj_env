@@ -1,4 +1,4 @@
-import demo from "./js/app";
+import demo from "./app";
 
 describe("Пример теста", () => {
   test.each([
