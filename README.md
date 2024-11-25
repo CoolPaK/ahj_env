@@ -7,3 +7,5 @@
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+
+[GitHub Pages](https://coolpak.github.io/ahj_env/)
